@@ -1,2 +1,2 @@
-# super-train
-First Repo
+# Daniel Kihwaga
+# Data Specialist
