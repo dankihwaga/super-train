@@ -1,2 +1,1 @@
-# Daniel Kihwaga
-# Data Specialist
+
